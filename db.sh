@@ -1,3 +1,6 @@
 #list of dbses
-aurora
 mongodb
+mariadb
+mysql
+posgreSQL
+DynamoDB
